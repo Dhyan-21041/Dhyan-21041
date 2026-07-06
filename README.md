@@ -33,6 +33,7 @@ Software Engineer at **Spycraft** (formerly Adden AI), an AI creative-intelligen
 
 ## 🔗 Projects
 
+* **[FindReviewer](https://github.com/Dhyan-21041/FindReviewer)** – Automated reviewer matching for academic conferences: **semantic search over ~12K CHI papers** with LLM metadata extraction from PDFs and DOIs. FastAPI, PostgreSQL, React.
 * **[Sanskriti](https://github.com/Dhyan-21041/Sanskriti)** – A multimodal, multilingual AI for Indian cultural heritage that **beat GPT-4 on art-form image classification** (95.8% vs 80% F1). Hierarchical image classification, cluster-based retrieval, and grounded QA over a self-built Wikipedia dataset, answering in 5 languages. Python, PyTorch, TensorFlow, Hugging Face, Flask.
 * **[Multimodal Retrieval System](https://github.com/Dhyan-21041/Multimodal-Retrieval-System)** – Image and text search over product reviews, with **TF-IDF and cosine similarity built from scratch**, no ML libraries for the retrieval core. InceptionV3 features, composite scoring that reconciles both signals, and precomputed indexes for fast queries.
 * **[Tank Stars](https://github.com/Dhyan-21041/TankStars)** – A two-player artillery game running **real Box2D physics** for projectile arcs and collision damage, three tank classes, and resumable save/load. Java, LibGDX.
