@@ -1,12 +1,43 @@
+## Hi 👋, I'm Dhyan Patel!
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhyan-21041&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyan-21041&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/patel-dhyan/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/Dhyan-21041" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:dhyanvpatel30@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhyxn.30_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patel-dhyan/) 
+### About Me 🚀
 
+Software Engineer at **Spycraft** (formerly Adden AI), an AI creative-intelligence platform for performance marketers. I work remotely from **Doha, Qatar** on **full-stack development** (FastAPI, React, Next.js) and **AI agent systems**, currently focused on the **MCP tooling** that connects the product to assistants like Claude and ChatGPT. **IIIT-Delhi**, B.Tech CSE 2025.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 What I Work On
+
+* **Backend Engineering** – FastAPI services, PostgreSQL, async processing, and third-party integrations.
+* **Frontend** – React and Next.js dashboards backed by TanStack Query for data-heavy views.
+* **AI & Agents** – LLM tool/function calling, agent orchestration, and MCP tools that expose product features to Claude and ChatGPT.
+* **Data Infrastructure** – Ad-library scrapers, job schedulers, and anomaly-detection pipelines.
+* **Cloud & Deployment** – Google Cloud (Run, Tasks, Storage), Docker, and CI/CD.
+
+## 🛠 Tech Stack
+
+* **Languages**: Python, TypeScript, Java, C++, SQL
+* **Backend**: FastAPI, SQLAlchemy, Pydantic, REST & GraphQL, OAuth2
+* **Frontend**: React, Next.js, TanStack Query
+* **Databases**: PostgreSQL, MySQL
+* **Cloud & Tools**: Google Cloud, Docker, GitHub Actions, Git
+* **ML / AI**: PyTorch, TensorFlow, Hugging Face, scikit-learn
+
+## 🔗 Projects
+
+* **[Sanskriti](https://github.com/Dhyan-21041/Sanskriti)** – A multimodal, multilingual AI for Indian cultural heritage that **beat GPT-4 on art-form image classification** (95.8% vs 80% F1). Hierarchical image classification, cluster-based retrieval, and grounded QA over a self-built Wikipedia dataset, answering in 5 languages. Python, PyTorch, TensorFlow, Hugging Face, Flask.
+* **[Multimodal Retrieval System](https://github.com/Dhyan-21041/Multimodal-Retrieval-System)** – Image and text search over product reviews, with **TF-IDF and cosine similarity built from scratch**, no ML libraries for the retrieval core. InceptionV3 features, composite scoring that reconciles both signals, and precomputed indexes for fast queries.
+* **[Tank Stars](https://github.com/Dhyan-21041/TankStars)** – A two-player artillery game running **real Box2D physics** for projectile arcs and collision damage, three tank classes, and resumable save/load. Java, LibGDX.
+
+## 📫 Let's Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/patel-dhyan/)
+📧 [Mail](mailto:dhyanvpatel30@gmail.com)
