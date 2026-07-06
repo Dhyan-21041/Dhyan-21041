@@ -18,7 +18,7 @@ Software Engineer at **Spycraft** (formerly Adden AI), an AI creative-intelligen
 
 * **Backend Engineering** – FastAPI services, PostgreSQL, async processing, and third-party integrations.
 * **Frontend** – React and Next.js dashboards backed by TanStack Query for data-heavy views.
-* **AI & Agents** – LLM tool/function calling, agent orchestration, and MCP tools that expose product features to Claude and ChatGPT.
+* **AI & Agents** – LLM tool/function calling, RAG based agent orchestration, and MCP tools that expose product features to Claude and ChatGPT.
 * **Data Infrastructure** – Ad-library scrapers, job schedulers, and anomaly-detection pipelines.
 * **Cloud & Deployment** – Google Cloud (Run, Tasks, Storage), Docker, and CI/CD.
 
