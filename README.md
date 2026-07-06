@@ -12,7 +12,7 @@
 
 ### About Me 🚀
 
-Software Engineer at **Spycraft** (formerly Adden AI), an AI creative-intelligence platform for performance marketers. I work remotely from **Doha, Qatar** on **full-stack development** (FastAPI, React, Next.js) and **AI agent systems**, currently focused on the **MCP tooling** that connects the product to assistants like Claude and ChatGPT. **IIIT-Delhi**, B.Tech CSE 2025.
+Software Engineer at **Spycraft** (formerly Adden AI), an AI creative-intelligence platform for performance marketers. I work remotely from **Qatar** on **full-stack development** (FastAPI, React, Next.js) and **AI agent systems**, currently focused on the **MCP tooling** that connects the product to assistants like Claude and ChatGPT. **IIIT-Delhi**, B.Tech CSE 2025.
 
 ## 🔹 What I Work On
 
